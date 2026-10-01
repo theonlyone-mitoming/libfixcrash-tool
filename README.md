@@ -11,8 +11,8 @@ This library helps fix crash errors (segmentation faults, aborts) for applicatio
 - NOT to be used for any malicious, destructive, or illegal activities.
 
 ## Platforms
-- Linux ARM64 / x86_64
-- Android NDK (if applicable)
+- Android (ARM64 / x86_64)
+- Runs in virtual machine / emulator environments
 
 ## How to Use
 Download the `libfixcrash.zip` file from the **Releases** folder and extract it to get `libfixcrash.so`.
