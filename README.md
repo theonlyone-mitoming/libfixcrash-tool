@@ -3,7 +3,7 @@ This library helps fix application crashes; it is for research and debugging pur
 # LibFixCrash
 
 ## Purpose
-This library helps fix crash errors (segmentation faults, aborts) for applications in a testing environment.
+This library helps fix crash errors (segmentation faults, aborts) for applications in a virtual machine environment.
 
 ## Scope of Use
 - For research, debugging, and learning purposes only.
